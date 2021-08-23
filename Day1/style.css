@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url('./background.jpg') bottom center;
+    background: url('https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') bottom center;
     background-size: cover;
   }
   
@@ -24,7 +24,7 @@ html {
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all 1.07s ease;
     width: 10rem;
     text-align: center;
     color: white;
