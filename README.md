@@ -11,3 +11,9 @@ Compelted on the 23rd Aug 2021 -**Drum Kit Challenge**!
 Completed 25th Aug - **Clock**
 
 ![](Day2/clock.JPG)
+
+## ✨Day
+
+Completed 26th Aug - **CSS Variables**
+
+![](Day3/variables.JPG)
