@@ -12,8 +12,12 @@ Completed 25th Aug - **Clock**
 
 ![](Day2/clock.JPG)
 
-## ✨Day
+## ✨Day 3
 
 Completed 26th Aug - **CSS Variables**
 
 ![](Day3/variables.JPG)
+
+## 📇Day 4
+
+Completed 27th Aug - **Arrays**
