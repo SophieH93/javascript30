@@ -21,3 +21,9 @@ Completed 26th Aug - **CSS Variables**
 ## 📇Day 4
 
 Completed 27th Aug - **Arrays**
+
+## 🖼️Day 5
+
+Completed 29th Aug - **Flex Panel Gallery**
+
+![](Day5/flex.JPG)
