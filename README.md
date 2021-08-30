@@ -27,3 +27,9 @@ Completed 27th Aug - **Arrays**
 Completed 29th Aug - **Flex Panel Gallery**
 
 ![](Day5/flex.JPG)
+
+## 🏙️ Day 6
+
+Completed 30th Aug - **Ajax City Search**
+
+![](Day6/city.JPG)
