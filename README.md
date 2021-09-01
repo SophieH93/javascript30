@@ -34,6 +34,6 @@ Completed 30th Aug - **Ajax City Search**
 
 ![](Day6/city.JPG)
 
-## 📇 Day
+## 📇 Day 7
 
 Completed 31th Aug - **Arrays part 2**
