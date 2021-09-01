@@ -40,6 +40,6 @@ Completed 31th Aug - **Arrays part 2**
 
 ## 🏙️ Day 8
 
-Completed 1st Sept - **Ajax City Search**
+Completed 1st Sept - **HTML5 Canvas**
 
 ![](Day8/canva.JPG)
