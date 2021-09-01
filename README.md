@@ -43,3 +43,7 @@ Completed 31th Aug - **Arrays part 2**
 Completed 1st Sept - **HTML5 Canvas**
 
 ![](Day8/canva.JPG)
+
+## 🏙️ Day 9
+
+Completed 1st Sept - **Dev Tool Tricks**
