@@ -47,3 +47,9 @@ Completed 1st Sept - **HTML5 Canvas**
 ## 🏙️ Day 9
 
 Completed 1st Sept - **Dev Tool Tricks**
+
+## ☑️ Day 10
+
+Completed 2nd Sept - **HTML5 Canvas**
+
+![](Day10/checkbox.JPG)
