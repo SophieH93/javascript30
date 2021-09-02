@@ -50,6 +50,6 @@ Completed 1st Sept - **Dev Tool Tricks**
 
 ## ☑️ Day 10
 
-Completed 2nd Sept - **HTML5 Canvas**
+Completed 2nd Sept - **Checkbox-Hold shift key to check multiple boxes**
 
 ![](Day10/checkbox.JPG)
