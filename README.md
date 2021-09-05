@@ -63,3 +63,9 @@ Completed 3rd Sept - **HTML5 Video**
 ## ⌨️ Day 12
 
 Completed 5th Sept - **Key Detection**
+
+## 📇 Day 13
+
+Completed 5th Sept - **Slide in on scroll**
+
+![](Day13/scroll.gif)
