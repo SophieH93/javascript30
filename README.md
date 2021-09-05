@@ -54,8 +54,12 @@ Completed 2nd Sept - **Checkbox-Hold shift key to check multiple boxes**
 
 ![](Day10/checkbox.JPG)
 
-## ☑️ Day 11
+## 📹 Day 11
 
 Completed 3rd Sept - **HTML5 Video**
 
 ![](Day11/html5.JPG)
+
+## ⌨️ Day 12
+
+Completed 5th Sept - **Key Detection**
