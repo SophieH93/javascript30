@@ -73,3 +73,7 @@ Completed 5th Sept - **Slide in on scroll**
 ## ⌨️ Day 14
 
 Completed 6th Sept - **Reference Vs Copy**
+
+## ☑️ Day 15
+
+Completed 7th Sept - **Local Storage**
