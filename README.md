@@ -77,3 +77,9 @@ Completed 6th Sept - **Reference Vs Copy**
 ## ☑️ Day 15
 
 Completed 7th Sept - **Local Storage**
+
+## ✨ Day 16
+
+Completed 8th Sept - \*_Mouse Move Shadow_
+
+![](Day16/woah.JPG)
