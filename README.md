@@ -83,3 +83,7 @@ Completed 7th Sept - **Local Storage**
 Completed 8th Sept - \*_Mouse Move Shadow_
 
 ![](Day16/woah.JPG)
+
+## 🏙️ Day 17
+
+Completed 9th Sept - **Array sort**
