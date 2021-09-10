@@ -87,3 +87,7 @@ Completed 8th Sept - \*_Mouse Move Shadow_
 ## 🏙️ Day 17
 
 Completed 9th Sept - **Array sort**
+
+## 🖼️ Day 18
+
+Completed 10th Sept - **String Time with Reduce**
