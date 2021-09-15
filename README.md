@@ -95,3 +95,7 @@ Completed 10th Sept - **String Time with Reduce**
 ## 🏙️ Day 19
 
 Completed 14th Sept - **Webcam Fun**
+
+## 📇 Day 20
+
+Completed 15th Sept - **Speech Recognition**
