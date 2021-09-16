@@ -99,3 +99,11 @@ Completed 14th Sept - **Webcam Fun**
 ## 📇 Day 20
 
 Completed 15th Sept - **Speech Recognition**
+
+## ✨ Day 21
+
+Could not be complete as do not have a mac - **Geolocation**
+
+## 📇 Day 22
+
+Completed 16h Sept - **Follow Along Link Highlighter**
