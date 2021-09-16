@@ -12,8 +12,8 @@ function highlightLink() {
     left: linkCoords.left + window.scrollX,
   };
 
-  highlight.style.width = `${linkCoords.left}px`;
-  highlight.style.width = `${linkCoords.right}px`;
+  highlight.style.width = `${linkCoords.width}px`;
+  highlight.style.height = `${linkCoords.height}px`;
   highlight.style.transform = `translate(${coords.left}px,${coords.top}px)`;
 }
 
