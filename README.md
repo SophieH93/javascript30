@@ -107,3 +107,9 @@ Could not be complete as do not have a mac - **Geolocation**
 ## 📇 Day 22
 
 Completed 16h Sept - **Follow Along Link Highlighter**
+
+## ⌨️ Day 23
+
+Completed 17th Sept - **Speech Synthesis**
+
+![](Day23/speech.JPG)
