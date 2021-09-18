@@ -113,3 +113,9 @@ Completed 16h Sept - **Follow Along Link Highlighter**
 Completed 17th Sept - **Speech Synthesis**
 
 ![](Day23/speech.JPG)
+
+## ☑️ Day 24
+
+Completed 18th Sept - **Sticky Nav**
+
+![](Day24/nav.gif)
