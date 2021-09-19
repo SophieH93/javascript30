@@ -119,3 +119,7 @@ Completed 17th Sept - **Speech Synthesis**
 Completed 18th Sept - **Sticky Nav**
 
 ![](Day24/nav.gif)
+
+## 🏙️ Day 25
+
+Completed 19th Sept - **Event capture, propagation, bubblins and Once**
