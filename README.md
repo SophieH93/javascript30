@@ -123,3 +123,9 @@ Completed 18th Sept - **Sticky Nav**
 ## 🏙️ Day 25
 
 Completed 19th Sept - **Event capture, propagation, bubblins and Once**
+
+## ⌨️ Day 26
+
+Completed 26th Sept - **Dropdown nav**
+
+![](Day26/nav.JPG)
