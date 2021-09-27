@@ -129,3 +129,9 @@ Completed 19th Sept - **Event capture, propagation, bubblins and Once**
 Completed 26th Sept - **Dropdown nav**
 
 ![](Day26/nav.JPG)
+
+## ⌨️ Day 27
+
+Completed 27th Sept - **Click and Drag**
+
+![](Day27/drag.gif)
