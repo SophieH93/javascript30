@@ -135,3 +135,9 @@ Completed 26th Sept - **Dropdown nav**
 Completed 27th Sept - **Click and Drag**
 
 ![](Day27/drag.gif)
+
+## 🖼️Day 28
+
+Completed 28th Sept - **Video Speed Control**
+
+![](Day28/videospeed.JPG)
