@@ -147,3 +147,9 @@ Completed 28th Sept - **Video Speed Control**
 Completed 1st Oct - **Countdown Clock**
 
 ![](Day29/countdown.gif)
+
+## ⌨️ Day 30
+
+Completed 2nd Oct - **Whack a Mole**
+
+![](Day30/mole.JPG)
